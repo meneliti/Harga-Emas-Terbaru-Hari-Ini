@@ -156,10 +156,6 @@ python3 scrape_emas.py --print  # lihat hasil di terminal
 
 Tanpa dependensi eksternal — cukup Python 3.8+.
 
-## 👥 Kunjungan
-
-<img src="https://s01.flagcounter.com/countxl/qaoY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Visitor Counter">
-
 ---
 
 *by PT. Pastiin Siber Indonesia*

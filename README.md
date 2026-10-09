@@ -2,7 +2,7 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 9 Oktober 2026** — terakhir diperbarui: 09 Oktober 2026, 11:43 WIB
+> 📅 **Data per tanggal: 9 Oktober 2026** — terakhir diperbarui: 09 Oktober 2026, 13:48 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
@@ -93,10 +93,6 @@ python3 scrape_emas.py --print  # lihat hasil di terminal
 ```
 
 Tanpa dependensi eksternal — cukup Python 3.8+.
-
-## 👥 Kunjungan
-
-<img src="https://s01.flagcounter.com/countxl/qaoY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Visitor Counter">
 
 ---
 
