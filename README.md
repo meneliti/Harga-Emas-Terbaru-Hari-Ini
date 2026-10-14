@@ -2,21 +2,21 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 14 Oktober 2026** — terakhir diperbarui: 14 Oktober 2026, 05:43 WIB
+> 📅 **Data per tanggal: 14 Oktober 2026** — terakhir diperbarui: 14 Oktober 2026, 11:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
 | Indikator | Harga |
 |---|---|
-| 🟢 **Termurah** | **Rp2.390.000** (Laku Emas) |
+| 🟢 **Termurah** | **Rp2.375.000** (Laku Emas) |
 | 🔴 **Termahal** | Rp2.724.000 (Logam Mulia) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.535.051 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.534.496 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.390.000 | Rp2.463.000 | Rp-73.000 |
+| 1 | **Laku Emas** | Laku Emas | Rp2.375.000 | Rp2.448.000 | Rp-73.000 |
 | 2 | **Harga Emas.com** | Emas Spot | Rp2.396.153 | – | – |
 | 3 | **Treasury** | unknown | Rp2.442.740 | Rp2.362.256 | Rp80.484 |
 | 4 | **Indogold** | IndoGold | Rp2.451.900 | Rp2.335.000 | Rp116.900 |
@@ -46,7 +46,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.390.000 | Rp2.463.000 | Rp-73.000 |
+| 1 | **Laku Emas** | Laku Emas | Rp2.375.000 | Rp2.448.000 | Rp-73.000 |
 | 2 | **Harga Emas.com** | Emas Spot | Rp2.396.153 | – | – |
 | 3 | **Treasury** | unknown | Rp2.442.740 | Rp2.362.256 | Rp80.484 |
 | 4 | **Indogold** | IndoGold | Rp2.451.900 | Rp2.335.000 | Rp116.900 |
