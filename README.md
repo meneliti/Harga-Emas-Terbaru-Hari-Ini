@@ -2,23 +2,23 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 15 Oktober 2026** — terakhir diperbarui: 15 Oktober 2026, 23:43 WIB
+> 📅 **Data per tanggal: 16 Oktober 2026** — terakhir diperbarui: 16 Oktober 2026, 05:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
 | Indikator | Harga |
 |---|---|
-| 🟢 **Termurah** | **Rp2.376.000** (Laku Emas) |
+| 🟢 **Termurah** | **Rp2.380.000** (Laku Emas) |
 | 🔴 **Termahal** | Rp2.711.000 (Logam Mulia) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.524.394 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.524.700 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.376.000 | Rp2.449.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.386.912 | – | – |
-| 3 | **Treasury** | unknown | Rp2.440.240 | Rp2.359.851 | Rp80.389 |
+| 1 | **Laku Emas** | Laku Emas | Rp2.380.000 | Rp2.453.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.390.658 | – | – |
+| 3 | **Treasury** | unknown | Rp2.440.752 | Rp2.360.404 | Rp80.348 |
 | 4 | **Indogold** | IndoGold | Rp2.447.900 | Rp2.335.000 | Rp112.900 |
 | 5 | **EmasKu** | Gold | Rp2.459.000 | Rp2.329.000 | Rp130.000 |
 | 6 | **Hartadinata Abadi** | EMASKU | Rp2.459.000 | – | – |
@@ -46,9 +46,9 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.376.000 | Rp2.449.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.386.912 | – | – |
-| 3 | **Treasury** | unknown | Rp2.440.240 | Rp2.359.851 | Rp80.389 |
+| 1 | **Laku Emas** | Laku Emas | Rp2.380.000 | Rp2.453.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.390.658 | – | – |
+| 3 | **Treasury** | unknown | Rp2.440.752 | Rp2.360.404 | Rp80.348 |
 | 4 | **Indogold** | IndoGold | Rp2.447.900 | Rp2.335.000 | Rp112.900 |
 | 5 | **EmasKu** | Gold | Rp2.459.000 | Rp2.329.000 | Rp130.000 |
 | 6 | **Hartadinata Abadi** | EMASKU | Rp2.459.000 | – | – |
