@@ -2,22 +2,22 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 16 Oktober 2026** — terakhir diperbarui: 16 Oktober 2026, 05:43 WIB
+> 📅 **Data per tanggal: 16 Oktober 2026** — terakhir diperbarui: 16 Oktober 2026, 11:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
 | Indikator | Harga |
 |---|---|
-| 🟢 **Termurah** | **Rp2.380.000** (Laku Emas) |
-| 🔴 **Termahal** | Rp2.711.000 (Logam Mulia) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.524.700 |
+| 🟢 **Termurah** | **Rp2.390.658** (Harga Emas.com) |
+| 🔴 **Termahal** | Rp2.715.000 (Logam Mulia) |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.525.589 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.380.000 | Rp2.453.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.390.658 | – | – |
+| 1 | **Harga Emas.com** | Emas Spot | Rp2.390.658 | – | – |
+| 2 | **Laku Emas** | Laku Emas | Rp2.396.000 | Rp2.469.000 | Rp-73.000 |
 | 3 | **Treasury** | unknown | Rp2.440.752 | Rp2.360.404 | Rp80.348 |
 | 4 | **Indogold** | IndoGold | Rp2.447.900 | Rp2.335.000 | Rp112.900 |
 | 5 | **EmasKu** | Gold | Rp2.459.000 | Rp2.329.000 | Rp130.000 |
@@ -36,18 +36,18 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 18 | **Harga Emas.net** | Emas LM Batangan Antam | Rp2.561.000 | Rp2.370.000 | Rp191.000 |
 | 19 | **Harga Emas.com** | Emas Antam | Rp2.561.000 | Rp2.370.000 | Rp191.000 |
 | 20 | **Harga Emas.com** | Antam | Rp2.561.000 | – | – |
-| 21 | **Logam Mulia** | Emas Batangan | Rp2.561.000 | – | – |
-| 22 | **Galeri 24** | LOTUS ARCHI | Rp2.561.000 | Rp2.337.000 | Rp224.000 |
-| 23 | **Brankas LM** | Emas Fisik | Rp2.561.000 | – | – |
+| 21 | **Galeri 24** | LOTUS ARCHI | Rp2.561.000 | Rp2.337.000 | Rp224.000 |
+| 22 | **Brankas LM** | Emas Fisik | Rp2.561.000 | – | – |
+| 23 | **Logam Mulia** | Emas Batangan | Rp2.565.000 | – | – |
 | 24 | **Cermati** | Emas Antam | Rp2.574.000 | – | – |
 | 25 | **Harga Emas.com** | Pegadaian | Rp2.600.000 | – | – |
 | 26 | **Harga Emas.org** | Emas Logam Mulia Antam | Rp2.711.000 | Rp2.439.900 | Rp271.100 |
-| 27 | **Logam Mulia** | Emas Batangan Gift Series | Rp2.711.000 | – | – |
+| 27 | **Logam Mulia** | Emas Batangan Gift Series | Rp2.715.000 | – | – |
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.380.000 | Rp2.453.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.390.658 | – | – |
+| 1 | **Harga Emas.com** | Emas Spot | Rp2.390.658 | – | – |
+| 2 | **Laku Emas** | Laku Emas | Rp2.396.000 | Rp2.469.000 | Rp-73.000 |
 | 3 | **Treasury** | unknown | Rp2.440.752 | Rp2.360.404 | Rp80.348 |
 | 4 | **Indogold** | IndoGold | Rp2.447.900 | Rp2.335.000 | Rp112.900 |
 | 5 | **EmasKu** | Gold | Rp2.459.000 | Rp2.329.000 | Rp130.000 |
@@ -66,13 +66,13 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 18 | **Harga Emas.net** | Emas LM Batangan Antam | Rp2.561.000 | Rp2.370.000 | Rp191.000 |
 | 19 | **Harga Emas.com** | Emas Antam | Rp2.561.000 | Rp2.370.000 | Rp191.000 |
 | 20 | **Harga Emas.com** | Antam | Rp2.561.000 | – | – |
-| 21 | **Logam Mulia** | Emas Batangan | Rp2.561.000 | – | – |
-| 22 | **Galeri 24** | LOTUS ARCHI | Rp2.561.000 | Rp2.337.000 | Rp224.000 |
-| 23 | **Brankas LM** | Emas Fisik | Rp2.561.000 | – | – |
+| 21 | **Galeri 24** | LOTUS ARCHI | Rp2.561.000 | Rp2.337.000 | Rp224.000 |
+| 22 | **Brankas LM** | Emas Fisik | Rp2.561.000 | – | – |
+| 23 | **Logam Mulia** | Emas Batangan | Rp2.565.000 | – | – |
 | 24 | **Cermati** | Emas Antam | Rp2.574.000 | – | – |
 | 25 | **Harga Emas.com** | Pegadaian | Rp2.600.000 | – | – |
 | 26 | **Harga Emas.org** | Emas Logam Mulia Antam | Rp2.711.000 | Rp2.439.900 | Rp271.100 |
-| 27 | **Logam Mulia** | Emas Batangan Gift Series | Rp2.711.000 | – | – |
+| 27 | **Logam Mulia** | Emas Batangan Gift Series | Rp2.715.000 | – | – |
 
 ## 📖 Keterangan
 
