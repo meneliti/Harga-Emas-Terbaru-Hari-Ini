@@ -2,22 +2,22 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 19 Oktober 2026** — terakhir diperbarui: 19 Oktober 2026, 23:43 WIB
+> 📅 **Data per tanggal: 20 Oktober 2026** — terakhir diperbarui: 20 Oktober 2026, 05:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
 | Indikator | Harga |
 |---|---|
-| 🟢 **Termurah** | **Rp2.410.000** (Laku Emas) |
+| 🟢 **Termurah** | **Rp2.395.000** (Laku Emas) |
 | 🔴 **Termahal** | Rp2.724.000 (Logam Mulia) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.541.422 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.540.033 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.410.000 | Rp2.483.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.424.397 | – | – |
+| 1 | **Laku Emas** | Laku Emas | Rp2.395.000 | Rp2.468.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.403.270 | – | – |
 | 3 | **Indogold** | IndoGold | Rp2.458.000 | Rp2.335.000 | Rp123.000 |
 | 4 | **Indogold** | UBS | Rp2.476.000 | Rp2.330.000 | Rp146.000 |
 | 5 | **EmasKu** | Gold | Rp2.476.000 | Rp2.346.000 | Rp130.000 |
@@ -45,8 +45,8 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.410.000 | Rp2.483.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.424.397 | – | – |
+| 1 | **Laku Emas** | Laku Emas | Rp2.395.000 | Rp2.468.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.403.270 | – | – |
 | 3 | **Indogold** | IndoGold | Rp2.458.000 | Rp2.335.000 | Rp123.000 |
 | 4 | **Indogold** | UBS | Rp2.476.000 | Rp2.330.000 | Rp146.000 |
 | 5 | **EmasKu** | Gold | Rp2.476.000 | Rp2.346.000 | Rp130.000 |
