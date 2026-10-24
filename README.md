@@ -2,7 +2,7 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 24 Oktober 2026** — terakhir diperbarui: 24 Oktober 2026, 23:43 WIB
+> 📅 **Data per tanggal: 25 Oktober 2026** — terakhir diperbarui: 25 Oktober 2026, 05:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
@@ -10,7 +10,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 |---|---|
 | 🟢 **Termurah** | **Rp2.312.562** (Harga Emas.com) |
 | 🔴 **Termahal** | Rp2.690.000 (Harga Emas.org) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.479.980 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.479.571 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
@@ -22,7 +22,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 4 | **EmasKu** | Gold | Rp2.403.000 | Rp2.274.000 | Rp129.000 |
 | 5 | **Hartadinata Abadi** | EMASKU | Rp2.403.000 | – | – |
 | 6 | **Indogold** | UBS | Rp2.405.000 | Rp2.290.000 | Rp115.000 |
-| 7 | **Bank BSI** | Emas | Rp2.430.000 | Rp2.333.000 | Rp97.000 |
+| 7 | **Bank BSI** | Emas | Rp2.421.000 | Rp2.325.000 | Rp96.000 |
 | 8 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.464.000 | Rp2.400.000 | Rp64.000 |
 | 9 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.467.000 | – | – |
 | 10 | **Galeri 24** | GALERI 24 | Rp2.467.000 | Rp2.326.000 | Rp141.000 |
@@ -47,7 +47,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 4 | **EmasKu** | Gold | Rp2.403.000 | Rp2.274.000 | Rp129.000 |
 | 5 | **Hartadinata Abadi** | EMASKU | Rp2.403.000 | – | – |
 | 6 | **Indogold** | UBS | Rp2.405.000 | Rp2.290.000 | Rp115.000 |
-| 7 | **Bank BSI** | Emas | Rp2.430.000 | Rp2.333.000 | Rp97.000 |
+| 7 | **Bank BSI** | Emas | Rp2.421.000 | Rp2.325.000 | Rp96.000 |
 | 8 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.464.000 | Rp2.400.000 | Rp64.000 |
 | 9 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.467.000 | – | – |
 | 10 | **Galeri 24** | GALERI 24 | Rp2.467.000 | Rp2.326.000 | Rp141.000 |
