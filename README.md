@@ -2,22 +2,22 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 25 Oktober 2026** — terakhir diperbarui: 25 Oktober 2026, 11:43 WIB
+> 📅 **Data per tanggal: 25 Oktober 2026** — terakhir diperbarui: 25 Oktober 2026, 17:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
 | Indikator | Harga |
 |---|---|
-| 🟢 **Termurah** | **Rp2.312.562** (Harga Emas.com) |
+| 🟢 **Termurah** | **Rp2.313.000** (Laku Emas) |
 | 🔴 **Termahal** | Rp2.690.000 (Harga Emas.org) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.479.571 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.480.114 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Harga Emas.com** | Emas Spot | Rp2.312.562 | – | – |
-| 2 | **Laku Emas** | Laku Emas | Rp2.313.000 | Rp2.386.000 | Rp-73.000 |
+| 1 | **Laku Emas** | Laku Emas | Rp2.313.000 | Rp2.386.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.324.529 | – | – |
 | 3 | **Indogold** | IndoGold | Rp2.400.000 | Rp2.295.000 | Rp105.000 |
 | 4 | **EmasKu** | Gold | Rp2.403.000 | Rp2.274.000 | Rp129.000 |
 | 5 | **Hartadinata Abadi** | EMASKU | Rp2.403.000 | – | – |
@@ -41,8 +41,8 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Harga Emas.com** | Emas Spot | Rp2.312.562 | – | – |
-| 2 | **Laku Emas** | Laku Emas | Rp2.313.000 | Rp2.386.000 | Rp-73.000 |
+| 1 | **Laku Emas** | Laku Emas | Rp2.313.000 | Rp2.386.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.324.529 | – | – |
 | 3 | **Indogold** | IndoGold | Rp2.400.000 | Rp2.295.000 | Rp105.000 |
 | 4 | **EmasKu** | Gold | Rp2.403.000 | Rp2.274.000 | Rp129.000 |
 | 5 | **Hartadinata Abadi** | EMASKU | Rp2.403.000 | – | – |
