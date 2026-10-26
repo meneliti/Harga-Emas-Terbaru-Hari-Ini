@@ -2,26 +2,26 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 26 Oktober 2026** — terakhir diperbarui: 26 Oktober 2026, 23:43 WIB
+> 📅 **Data per tanggal: 27 Oktober 2026** — terakhir diperbarui: 27 Oktober 2026, 05:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
 | Indikator | Harga |
 |---|---|
-| 🟢 **Termurah** | **Rp2.326.000** (Laku Emas) |
+| 🟢 **Termurah** | **Rp2.336.000** (Laku Emas) |
 | 🔴 **Termahal** | Rp2.690.000 (Harga Emas.org) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.481.540 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.481.465 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.326.000 | Rp2.399.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.332.499 | – | – |
+| 1 | **Laku Emas** | Laku Emas | Rp2.336.000 | Rp2.409.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.337.851 | – | – |
 | 3 | **Indogold** | IndoGold | Rp2.400.400 | Rp2.285.000 | Rp115.400 |
-| 4 | **EmasKu** | Gold | Rp2.402.000 | Rp2.273.000 | Rp129.000 |
-| 5 | **Hartadinata Abadi** | EMASKU | Rp2.402.000 | – | – |
-| 6 | **Indogold** | UBS | Rp2.418.000 | Rp2.280.000 | Rp138.000 |
+| 4 | **Indogold** | UBS | Rp2.401.000 | Rp2.280.000 | Rp121.000 |
+| 5 | **EmasKu** | Gold | Rp2.402.000 | Rp2.273.000 | Rp129.000 |
+| 6 | **Hartadinata Abadi** | EMASKU | Rp2.402.000 | – | – |
 | 7 | **Bank BSI** | Emas | Rp2.420.000 | Rp2.325.000 | Rp95.000 |
 | 8 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.464.000 | Rp2.400.000 | Rp64.000 |
 | 9 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.467.000 | – | – |
@@ -41,12 +41,12 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
-| 1 | **Laku Emas** | Laku Emas | Rp2.326.000 | Rp2.399.000 | Rp-73.000 |
-| 2 | **Harga Emas.com** | Emas Spot | Rp2.332.499 | – | – |
+| 1 | **Laku Emas** | Laku Emas | Rp2.336.000 | Rp2.409.000 | Rp-73.000 |
+| 2 | **Harga Emas.com** | Emas Spot | Rp2.337.851 | – | – |
 | 3 | **Indogold** | IndoGold | Rp2.400.400 | Rp2.285.000 | Rp115.400 |
-| 4 | **EmasKu** | Gold | Rp2.402.000 | Rp2.273.000 | Rp129.000 |
-| 5 | **Hartadinata Abadi** | EMASKU | Rp2.402.000 | – | – |
-| 6 | **Indogold** | UBS | Rp2.418.000 | Rp2.280.000 | Rp138.000 |
+| 4 | **Indogold** | UBS | Rp2.401.000 | Rp2.280.000 | Rp121.000 |
+| 5 | **EmasKu** | Gold | Rp2.402.000 | Rp2.273.000 | Rp129.000 |
+| 6 | **Hartadinata Abadi** | EMASKU | Rp2.402.000 | – | – |
 | 7 | **Bank BSI** | Emas | Rp2.420.000 | Rp2.325.000 | Rp95.000 |
 | 8 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.464.000 | Rp2.400.000 | Rp64.000 |
 | 9 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.467.000 | – | – |
