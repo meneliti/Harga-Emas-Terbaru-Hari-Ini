@@ -2,7 +2,7 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 30 Oktober 2026** — terakhir diperbarui: 30 Oktober 2026, 05:43 WIB
+> 📅 **Data per tanggal: 30 Oktober 2026** — terakhir diperbarui: 30 Oktober 2026, 11:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
@@ -10,7 +10,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 |---|---|
 | 🟢 **Termurah** | **Rp2.345.014** (Harga Emas.com) |
 | 🔴 **Termahal** | Rp2.690.000 (Harga Emas.org) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.524.778 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.520.471 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
@@ -32,8 +32,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 14 | **Harga Emas.com** | Antam | Rp2.559.000 | – | – |
 | 15 | **Cermati** | Emas Antam | Rp2.570.000 | – | – |
 | 16 | **Harga Emas.com** | Pegadaian | Rp2.598.000 | – | – |
-| 17 | **Galeri 24** | ANTAM | Rp2.598.000 | Rp2.329.000 | Rp269.000 |
-| 18 | **Harga Emas.org** | Emas Logam Mulia Antam | Rp2.690.000 | Rp2.421.000 | Rp269.000 |
+| 17 | **Harga Emas.org** | Emas Logam Mulia Antam | Rp2.690.000 | Rp2.421.000 | Rp269.000 |
 
 | Peringkat | Penyedia | Jenis Emas | Harga Jual/gram | Buyback/gram | Selisih Jual–Buyback |
 |---|---|---|---|---|---|
@@ -53,8 +52,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 14 | **Harga Emas.com** | Antam | Rp2.559.000 | – | – |
 | 15 | **Cermati** | Emas Antam | Rp2.570.000 | – | – |
 | 16 | **Harga Emas.com** | Pegadaian | Rp2.598.000 | – | – |
-| 17 | **Galeri 24** | ANTAM | Rp2.598.000 | Rp2.329.000 | Rp269.000 |
-| 18 | **Harga Emas.org** | Emas Logam Mulia Antam | Rp2.690.000 | Rp2.421.000 | Rp269.000 |
+| 17 | **Harga Emas.org** | Emas Logam Mulia Antam | Rp2.690.000 | Rp2.421.000 | Rp269.000 |
 
 ## 📖 Keterangan
 
