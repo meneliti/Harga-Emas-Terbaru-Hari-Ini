@@ -2,7 +2,7 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 2 November 2026** — terakhir diperbarui: 02 November 2026, 05:43 WIB
+> 📅 **Data per tanggal: 2 November 2026** — terakhir diperbarui: 02 November 2026, 11:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
@@ -10,7 +10,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 |---|---|
 | 🟢 **Termurah** | **Rp2.262.410** (Harga Emas.com) |
 | 🔴 **Termahal** | Rp2.690.000 (Harga Emas.org) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.481.435 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.483.200 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
@@ -20,12 +20,12 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 2 | **Hartadinata Abadi** | EMASKU | Rp2.373.000 | – | – |
 | 3 | **Bank BSI** | Emas | Rp2.398.000 | Rp2.286.000 | Rp112.000 |
 | 4 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.443.000 | – | – |
-| 5 | **Galeri 24** | GALERI 24 | Rp2.443.000 | Rp2.299.000 | Rp144.000 |
-| 6 | **Galeri 24** | ANTAM NON PEGADAIAN | Rp2.447.000 | Rp2.164.000 | Rp283.000 |
-| 7 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.450.000 | Rp2.380.000 | Rp70.000 |
-| 8 | **Galeri 24** | UBS | Rp2.467.000 | Rp2.274.000 | Rp193.000 |
+| 5 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.450.000 | Rp2.380.000 | Rp70.000 |
+| 6 | **Galeri 24** | GALERI 24 | Rp2.451.000 | Rp2.307.000 | Rp144.000 |
+| 7 | **Galeri 24** | ANTAM NON PEGADAIAN | Rp2.461.000 | Rp2.173.000 | Rp288.000 |
+| 8 | **Galeri 24** | UBS | Rp2.475.000 | Rp2.281.000 | Rp194.000 |
 | 9 | **Sampoerna Gold** | unknown | Rp2.478.000 | Rp2.316.000 | Rp162.000 |
-| 10 | **Galeri 24** | LOTUS ARCHI | Rp2.491.000 | Rp2.274.000 | Rp217.000 |
+| 10 | **Galeri 24** | LOTUS ARCHI | Rp2.491.000 | Rp2.281.000 | Rp210.000 |
 | 11 | **Aneka Logam** | LM Antam produksi tahun 2026 | Rp2.510.000 | Rp2.380.000 | Rp130.000 |
 | 12 | **Harga Emas.com** | Emas Antam | Rp2.526.000 | Rp2.276.000 | Rp250.000 |
 | 13 | **Harga Emas.com** | Antam | Rp2.526.000 | – | – |
@@ -40,12 +40,12 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 | 2 | **Hartadinata Abadi** | EMASKU | Rp2.373.000 | – | – |
 | 3 | **Bank BSI** | Emas | Rp2.398.000 | Rp2.286.000 | Rp112.000 |
 | 4 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.443.000 | – | – |
-| 5 | **Galeri 24** | GALERI 24 | Rp2.443.000 | Rp2.299.000 | Rp144.000 |
-| 6 | **Galeri 24** | ANTAM NON PEGADAIAN | Rp2.447.000 | Rp2.164.000 | Rp283.000 |
-| 7 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.450.000 | Rp2.380.000 | Rp70.000 |
-| 8 | **Galeri 24** | UBS | Rp2.467.000 | Rp2.274.000 | Rp193.000 |
+| 5 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.450.000 | Rp2.380.000 | Rp70.000 |
+| 6 | **Galeri 24** | GALERI 24 | Rp2.451.000 | Rp2.307.000 | Rp144.000 |
+| 7 | **Galeri 24** | ANTAM NON PEGADAIAN | Rp2.461.000 | Rp2.173.000 | Rp288.000 |
+| 8 | **Galeri 24** | UBS | Rp2.475.000 | Rp2.281.000 | Rp194.000 |
 | 9 | **Sampoerna Gold** | unknown | Rp2.478.000 | Rp2.316.000 | Rp162.000 |
-| 10 | **Galeri 24** | LOTUS ARCHI | Rp2.491.000 | Rp2.274.000 | Rp217.000 |
+| 10 | **Galeri 24** | LOTUS ARCHI | Rp2.491.000 | Rp2.281.000 | Rp210.000 |
 | 11 | **Aneka Logam** | LM Antam produksi tahun 2026 | Rp2.510.000 | Rp2.380.000 | Rp130.000 |
 | 12 | **Harga Emas.com** | Emas Antam | Rp2.526.000 | Rp2.276.000 | Rp250.000 |
 | 13 | **Harga Emas.com** | Antam | Rp2.526.000 | – | – |
