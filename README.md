@@ -2,7 +2,7 @@
 
 Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indonesia** — ANTAM (Logam Mulia), Pegadaian, Bank BSI, dan penjual lainnya — diurutkan dari **termurah ke termahal**. Data diperbarui otomatis **setiap 6 jam**.
 
-> 📅 **Data per tanggal: 7 November 2026** — terakhir diperbarui: 07 November 2026, 05:43 WIB
+> 📅 **Data per tanggal: 7 November 2026** — terakhir diperbarui: 07 November 2026, 11:43 WIB
 
 ## 📊 Ringkasan Harga Emas per Gram
 
@@ -10,7 +10,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 |---|---|
 | 🟢 **Termurah** | **Rp2.362.251** (Harga Emas.com) |
 | 🔴 **Termahal** | Rp2.690.000 (Harga Emas.org) |
-| ⚖️ **Rata-rata 18 penyedia** | Rp2.527.250 |
+| ⚖️ **Rata-rata 18 penyedia** | Rp2.527.191 |
 
 ## 📋 Tabel Harga Emas per Gram (Termurah → Termahal)
 
@@ -18,7 +18,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 |---|---|---|---|---|---|
 | 1 | **Harga Emas.com** | Emas Spot | Rp2.362.251 | – | – |
 | 2 | **Bank BSI** | Emas | Rp2.450.000 | Rp2.353.000 | Rp97.000 |
-| 3 | **Hartadinata Abadi** | EMASKU | Rp2.456.000 | – | – |
+| 3 | **Hartadinata Abadi** | EMASKU | Rp2.455.000 | – | – |
 | 4 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.490.000 | Rp2.450.000 | Rp40.000 |
 | 5 | **Galeri 24** | LOTUS ARCHI | Rp2.491.000 | Rp2.334.000 | Rp157.000 |
 | 6 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.507.000 | – | – |
@@ -38,7 +38,7 @@ Pantauan **harga emas batangan per gram** dari **18 penyedia emas resmi di Indon
 |---|---|---|---|---|---|
 | 1 | **Harga Emas.com** | Emas Spot | Rp2.362.251 | – | – |
 | 2 | **Bank BSI** | Emas | Rp2.450.000 | Rp2.353.000 | Rp97.000 |
-| 3 | **Hartadinata Abadi** | EMASKU | Rp2.456.000 | – | – |
+| 3 | **Hartadinata Abadi** | EMASKU | Rp2.455.000 | – | – |
 | 4 | **Aneka Logam** | Logam Mulia ANTAM Certicard gramasi 100 gram produksi tahun  | Rp2.490.000 | Rp2.450.000 | Rp40.000 |
 | 5 | **Galeri 24** | LOTUS ARCHI | Rp2.491.000 | Rp2.334.000 | Rp157.000 |
 | 6 | **Harga Emas.org** | Emas Logam Mulia Pegadaian | Rp2.507.000 | – | – |
